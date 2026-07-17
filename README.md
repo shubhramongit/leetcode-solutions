@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/shubhramongit/leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/shubhramongit/leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+## Graph Theory
+|  |
+| ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/shubhramongit/leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/shubhramongit/leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+## Shortest Path
+|  |
+| ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/shubhramongit/leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 <!---LeetCode Topics End-->

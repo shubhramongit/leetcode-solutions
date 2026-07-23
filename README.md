@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhramongit/leetcode-solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/shubhramongit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shubhramongit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shubhramongit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhramongit/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shubhramongit/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack

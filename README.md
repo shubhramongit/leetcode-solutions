@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhramongit/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhramongit/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/shubhramongit/leetcode-solutions/tree/master/0322-coin-change) |
 | [1260-shift-2d-grid](https://github.com/shubhramongit/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shubhramongit/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shubhramongit/leetcode-solutions/tree/master/0322-coin-change) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhramongit/leetcode-solutions/tree/master/3575-maximum-good-subtree-score) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/shubhramongit/leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Graph Theory
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3575-maximum-good-subtree-score](https://github.com/shubhramongit/leetcode-solutions/tree/master/3575-maximum-good-subtree-score) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shubhramongit/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

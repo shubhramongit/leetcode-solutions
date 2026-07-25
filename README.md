@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhramongit/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhramongit/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shubhramongit/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/shubhramongit/leetcode-solutions/tree/master/0322-coin-change) |
 | [1260-shift-2d-grid](https://github.com/shubhramongit/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shubhramongit/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |

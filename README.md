@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubhramongit/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubhramongit/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/shubhramongit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
 | [0763-partition-labels](https://github.com/shubhramongit/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubhramongit/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/shubhramongit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0763-partition-labels](https://github.com/shubhramongit/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhramongit/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhramongit/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shubhramongit/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

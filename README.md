@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shubhramongit/leetcode-solutions/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhramongit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/shubhramongit/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhramongit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shubhramongit/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhramongit/leetcode-solutions/tree/master/3575-maximum-good-subtree-score) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shubhramongit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhramongit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhramongit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhramongit/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhramongit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/shubhramongit/leetcode-solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Shortest Path
 |  |

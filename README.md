@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhramongit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/shubhramongit/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhramongit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shubhramongit/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3575-maximum-good-subtree-score](https://github.com/shubhramongit/leetcode-solutions/tree/master/3575-maximum-good-subtree-score) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhramongit/leetcode-solutions/tree/master/0268-missing-number) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shubhramongit/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhramongit/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shubhramongit/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhramongit/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->

@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhramongit/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0763-partition-labels](https://github.com/shubhramongit/leetcode-solutions/tree/master/0763-partition-labels) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shubhramongit/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhramongit/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shubhramongit/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shubhramongit/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shubhramongit/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shubhramongit/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |

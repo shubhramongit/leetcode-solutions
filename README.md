@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shubhramongit/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shubhramongit/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
